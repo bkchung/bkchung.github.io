@@ -1,0 +1,24 @@
+# Permalinks x
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            철수네 소프트웨어 세상 
+tagline:          '@charlz blog'
+description:      ... 
+url:              http://bkchung.github.io
+baseurl:          
+
+author:
+  name:           'bkchung'
+  url:            https://twitter.com/bkchung
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
