@@ -21,4 +21,9 @@ version:          1.0.0
 pages_list:       
   About: '/about'
   Archive: '/archive'
+  Tags: '/tags'
   Feed: '/atom.xml'
+
+sass:
+  sass_dir: _scss
+  style: :compressed

@@ -1,0 +1,6 @@
+---
+layout: page
+title: Tags
+description: "An archive of posts sorted by tag."
+---
+{% include grouped_posts.html groupings=site.tags groupingClass='tag' %}
